@@ -1,7 +1,7 @@
 
 
 body {
-  background-color:red;
+  background-color:white;
 
 }
 
@@ -73,7 +73,24 @@ body {
 
 
 .div-catalog {
-  border-width: 3px; 
-  border-style: solid; 
-  background: cornflowerblue;
+  border-width: 3px;
+  border-style: solid;
+  background: #38B000;
+}
+
+.carousel-item img{
+  object-fit: cover;
+   width: 100%;
+   height: 100%;
+}
+
+.slide img{
+  width: 100%;
+  height: 500px;
+  margin: 0px;
+
+}
+
+.navbar{
+  background-color: #70E000;
 }
