@@ -96,3 +96,35 @@ body {
 .navbar{
   background-color: #70E000;
 }
+
+.container{
+    padding-right: 0px;
+    padding-left: 0px;
+   }
+
+.cotact-main {
+    width: 100%;
+    background-color: green;
+    clear: both;
+
+    display: block;
+}
+
+
+#telefon-div, #email-div, #map-div {
+    float: left;
+    margin: 0px;
+    width: 33%;
+}
+
+#facebook-div a, #instagram-div a{
+    background-color: yellow;
+}
+
+.contact-main div a{
+    display: inline-block;
+    background-color: red;
+    text-align: center;
+    height:100%;
+    width: 100%
+}
