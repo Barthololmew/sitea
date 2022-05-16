@@ -53,7 +53,7 @@
     </button>
   </div>
 </div>
-<div class="container" style="border-style: solid; border-width: 5px;"><h1 style="font-size: 25px; text-align: center;">Despre noi</h1></div>
+<div class="container" style="background-color: #43b14b;"><h1 style="font-size: 25px; text-align: center; height: 50px; padding: 10px 0;">Despre noi</h1></div>
 <div class="container">
   <span style="float: left; display: inline-block;">
     <p style="max-width: 500px; margin-left: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam magna tellus, dapibus vel dapibus a, aliquam at lectus. Pellentesque sodales elit sed nulla feugiat sollicitudin. Nulla rhoncus lectus non elit congue rutrum. Praesent aliquam consequat sollicitudin. Pellentesque ut vulputate magnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam magna tellus, dapibus vel dapibus a, aliquam at lectus. Pellentesque sodales elit sed nulla feugiat sollicitudin. Nulla rhoncus lectus non elit congue rutrum. Praesent aliquam consequat sollicitudin. Pellentesque ut vulputate magna.
@@ -66,7 +66,7 @@
 </span>
 </div>
 
-<div class="container" style=" clear: both; display: block; border-style: solid; border-width: 5px;"><h1 style="font-size: 25px; text-align: center;">Cu ce ne ocupam</h1></div>
+<div class="container" style=" clear: both; display: block; background-color: #43b14b;"><h1 style="font-size: 25px; text-align: center; height: 50px; padding: 10px 0;">Cu ce ne ocupam</h1></div>
 
 
 <div class="container">
@@ -86,20 +86,27 @@
     </div>
 </div>
 
-<div class="container"> 
+<div class="container" style="font-size:25px ;"> 
   <div class="row" style="margin-right:0px; margin-left: 0px;">
-      <div class="col-md-4" style="background: aquamarine;">
-               Telefon
+      <div class="col-md-4" style="background: #6ac870">
+               <i class="bi bi-telephone" ></i>Telefon:
                <br>
                0712345678
                <br>
                0712345678
+               <br>
+                <i class="bi bi-envelope" ></i>Email:
+               <br>
+               contactnewgarden@hotmail.com
+               <br>
+               contactnewgarden@gmail.com
+               <br>
       </div>
 
-      <div class="col-md-4" style="background: coral;">
+      <div class="col-md-4" style="background: #6ac870;">
             
           <span style="float:left;">
-            <ul style="list-style: none;  padding: 0px; display: inline-block;">
+            <ul style="list-style: none; display: inline-block; padding: 0px ;">
               <li>Program:</li>
               <li>Luni </li>
               <li>Marti</li>
@@ -112,7 +119,7 @@
           </span>
             <span style="float:right;">
             <ul style="list-style: none;  padding: 0px; display: inline-block;">
-              <li>08:00-20:00</li>
+              <li>⠀</li>
               <li>08:00-20:00</li>
               <li>08:00-20:00</li>
               <li>08:00-20:00</li>
@@ -124,13 +131,8 @@
           </span>
       </div>
 
-      <div class="col-md-4" style="background: darkred;">
-             Email
-               <br>
-               contactnewgarden@hotmail.com
-               <br>
-               contactnewgarden@gmail.com
-               <br>
+      <div class="col-md-4" style="background: #6ac870;">
+        <i class="bi bi-geo-alt"></i>
       </div>
 
 
